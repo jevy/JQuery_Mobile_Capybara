@@ -6,3 +6,5 @@ Looking at the firebug css, by inspection it seems fine
 Jquery's .is(':visible') comes back as true.
 
 Please help!!
+
+"rake cucumber"
