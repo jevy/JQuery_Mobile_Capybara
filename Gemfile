@@ -9,8 +9,8 @@ gem 'rake', '~> 0.8.7'
 gem 'sqlite3'
 
 group :test do 
-  gem 'cucumber', '0.10.0'
+  gem 'cucumber'
   gem 'cucumber-rails'
-  gem 'capybara', '0.4.1.2'
+  gem 'capybara'
   gem 'database_cleaner'
 end

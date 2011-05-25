@@ -1,5 +1,7 @@
 It appears that when a button is formatted using JQuery Mobile, Capybara's Selenium driver thinks the button is not visible.
 
+Works fine without the "@javascript" tag
+
 Looking at the firebug css, by inspection it seems fine
 Jquery's .is(':visible') comes back as true.
 
